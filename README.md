@@ -1,7 +1,9 @@
-# MACS30200 Project (Spring 2018)
+# MACS30200 (Spring 2018)
 # Leoson Hoay
 
-This is a repository for Leoson Hoay's project, done in fulfillment of the MACS30200 (Perspectives in Computational Research) course requirements at the University of Chicago.
+This is a repository for Leoson Hoay's project and additional work done in fulfillment of the MACS30200 (Perspectives in Computational Research) course requirements at the University of Chicago.
+
+## Project Title: The Aesthetics of Knowledge Consumption
 
 # Changelog:
 * 4/16/2018: Added Problem Set 1
