@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.4.3)  22 APR 2018 21:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.4.3)  22 APR 2018 21:30
 entering extended mode
 **"C:/Users/leoso/Desktop/UChicago Year 1/Spring/git/MACS30200proj/LitReview/Li
 teratureReview.tex"
@@ -512,16 +512,16 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 86.
 Here is how much of TeX's memory you used:
  9178 strings out of 493312
  136206 string characters out of 3138900
- 231829 words of memory out of 3000000
+ 232829 words of memory out of 3000000
  12626 multiletter control sequences out of 15000+200000
  5252 words of font info for 19 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,11n,43p,1738b,341s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,11n,43p,1780b,341s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on LiteratureReview.pdf (2 pages, 52742 bytes).
+Output written on LiteratureReview.pdf (2 pages, 53200 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
