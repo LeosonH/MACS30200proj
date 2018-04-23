@@ -6,6 +6,7 @@ This is a repository for Leoson Hoay's project and additional work done in fulfi
 **Project Title: The Aesthetics of Knowledge Consumption**
 
 # Changelog:
+* 4/23/2018: Added Literature Review
 * 4/19/2018: Added Data Collection Test Cases 
 * 4/16/2018: Added Problem Set 1
 * 4/3/2018: Added Proposal Slides
