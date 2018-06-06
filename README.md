@@ -6,6 +6,7 @@ This is a repository for Leoson Hoay's project and additional work done in fulfi
 **Project Title: The Aesthetics of Knowledge Consumption: Does aesthetics matter in popular science communication?**
 
 # Changelog:
+* 6/6/2018: Added Final Paper
 * 5/29/2018: Added Poster
 * 5/27/2018: Added Problem Set 4
 * 5/16/2018: Added Problem Set 3
